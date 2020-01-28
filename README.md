@@ -4,7 +4,8 @@
 Personal blog with markdown as a content
 
 ## Bug
-- [ ] Dynamic routing with vue-router to load markdown as a components
+- [ ] Dynamic routing with vue-router + webpack to load markdown as a components
+- [ ] Count how much time to read the articles by counting words in markdown
 
 ## Project setup
 ```
