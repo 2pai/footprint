@@ -1,4 +1,10 @@
 # personal-blog
+[Website](https://2pai-footprint.netlify.com)
+
+Personal blog with markdown as a content
+
+## Bug
+- [ ] Dynamic routing with vue-router to load markdown as a components
 
 ## Project setup
 ```
